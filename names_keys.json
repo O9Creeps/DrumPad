@@ -1,0 +1,11 @@
+{
+    "Piano": "piano",
+    "Vibraphone": "vibraphone",
+    "Organ": "organ",
+    "Square Pluck": "square_pluck",
+    "Saw Pluck": "saw_pluck",
+    "Bass": "bass",
+    "Synth Bass": "synth_bass",
+    "Sine Pick": "sine_pick",
+    "808 Bass": "808_bass"
+}
